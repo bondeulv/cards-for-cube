@@ -1,3 +1,9 @@
+Vintage Cube kort jeg har:
+
+*** Kort som er merket 'x': Har lagt i en boks merket cube *** 
+*** Kort som er merket '(?)': Tror jeg har (sånn 70% sikker)
+*** Kort uten merke: 95% sikker på at jeg har, men har ikke lagt i boks merket cube ***
+
 Adanto Vanguard x
 Ancient Tomb x
 Aragorn, King of Gondor x
@@ -13,7 +19,7 @@ Chandra, Torch of Defiance
 Chrome Host Seedshark x
 Consider x
 Containment Priest
-Council's Judgment
+Council's Judgment x
 Damn
 Deep-Cavern Bat x
 Devoted Druid x
@@ -78,7 +84,7 @@ Nissa, Who Shakes the World (?)
 Oliphaunt x
 Ophiomancer x
 Palace Jailer x
-Paradox Engine
+Paradox Engine (?)
 Parallax Wave (?)
 Pentad Prism x
 Pestermite
@@ -88,7 +94,7 @@ Primeval Titan x
 Prismatic Ending (?)
 Raging Ravine x
 Rampaging Raptor x
-Recurring Nightmare
+Recurring Nightmare x
 Regal Bunnicorn x
 Regrowth x
 Reprieve x
