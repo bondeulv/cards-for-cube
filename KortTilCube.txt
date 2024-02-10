@@ -20,13 +20,14 @@ Chrome Host Seedshark x
 Consider x
 Containment Priest
 Council's Judgment x
-Damn
+Damn x
+Dark Depths x
 Deep-Cavern Bat x
 Devoted Druid x
-Displacer Kitten
+Displacer Kitten x
 Dragon's Rage Channeler x
 Dreadhorde Arcanist x
-Elvish Reclaimer (?)
+Elvish Reclaimer x
 Embercleave x
 Embereth Shieldbreaker // Battle Display x
 Emry, Lurker of the Loch x
@@ -49,7 +50,7 @@ Haywire Mite x
 Hellrider (?)
 Hero of Bladehold (?)
 Hexdrinker (?)
-High Tide
+High Tide x
 Ichor Wellspring x
 Ignoble Hierarch x
 Incinerate x
@@ -66,18 +67,19 @@ Krark-Clan Ironworks x
 Lion Sash x
 Lórien Revealed x
 Lotus Cobra x
-Lotus Petal (?)
+Lotus Petal x
 Luminarch Aspirant (?)
 Malcolm, Alluring Scoundrel x
 Manglehorn
 Mind's Desire
-Minsc & Boo, Timeless Heroes
+Minsc & Boo, Timeless Heroes x
 Mishra's Bauble (?)
 Mizzix's Mastery x
 Monastery Mentor x
 Monastery Swiftspear x
-Monster Manual // Zoological Study
+Monster Manual // Zoological Study x
 Mosswood Dreadknight // Dread Whispers x
+Mox Diamond (fake, men funker greit som proxy)
 Natural Order x
 Nettlecyst (?)
 Nissa, Who Shakes the World (?)
@@ -85,7 +87,7 @@ Oliphaunt x
 Ophiomancer x
 Palace Jailer x
 Paradox Engine (?)
-Parallax Wave (?)
+Parallax Wave x
 Pentad Prism x
 Pestermite
 Phyrexian Metamorph
@@ -110,11 +112,11 @@ Scrap Trawler x
 Scrapwork Mutt x
 Seething Song (?)
 Selfless Spirit (?)
-Serra Paragon (?)
+Serra Paragon x
 Sheoldred's Edict x
 Show and Tell (?)
 Skyclave Apparition (?)
-Smuggler's Copter (?)
+Smuggler's Copter x
 Soul-Scar Mage (?)
 Spellseeker (?)
 Splinter Twin (?)
@@ -133,7 +135,7 @@ Touch the Spirit Realm x
 Tourach, Dread Cantor (?)
 Troll of Khazad-dûm x
 Ulvenwald Oddity // Ulvenwald Behemoth x
-Undermountain Adventurer
+Undermountain Adventurer x
 Underworld Breach x
 Unexpectedly Absent x
 Unmarked Grave (?)
@@ -146,7 +148,7 @@ Voldaren Epicure x
 Walking Ballista x
 Welcoming Vampire x
 Woodfall Primus (?)
-Yorion, Sky Nomad (?)
+Yorion, Sky Nomad x
 Young Pyromancer x
 Zirda, the Dawnwaker x
 Zuran Orb x
