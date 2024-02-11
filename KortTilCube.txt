@@ -27,12 +27,13 @@ Devoted Druid x
 Displacer Kitten x
 Dragon's Rage Channeler x
 Dreadhorde Arcanist x
+Echo of Eons x
 Elvish Reclaimer x
 Embercleave x
 Embereth Shieldbreaker // Battle Display x
 Emry, Lurker of the Loch x
 Ephemerate x
-Exhume (?)
+Exhume x
 Expressive Iteration x
 Faerie Mastermind x
 Feywild Caretaker x
@@ -43,7 +44,7 @@ Flash (?)
 Fury x
 Get Lost x
 Green Sun's Zenith x
-Grim Lavamancer (?)
+Grim Lavamancer x
 Guardian of Ghirapur x
 Hangarback Walker x
 Haywire Mite x
@@ -117,9 +118,11 @@ Sheoldred's Edict x
 Show and Tell (?)
 Skyclave Apparition (?)
 Smuggler's Copter x
+Sneak Attack x
 Soul-Scar Mage (?)
 Spellseeker (?)
 Splinter Twin (?)
+Staff of the Storyteller x
 Stern Scolding x
 Sylvan Caryatid (?)
 Tamiyo, Collector of Tales (?)
@@ -142,7 +145,7 @@ Unmarked Grave (?)
 Upheaval x
 Usher of the Fallen x
 Utopia Sprawl
-Venser, Shaper Savant (?)
+Venser, Shaper Savant x
 Voice of Resurgence (?)
 Voldaren Epicure x
 Walking Ballista x
