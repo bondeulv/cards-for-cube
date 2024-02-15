@@ -14,7 +14,7 @@ Bolas's Citadel x
 Bomat Courier x
 Botanical Sanctum (?)
 Cabal Ritual x
-Celestial Colonnade
+Celestial Colonnade x
 Chandra, Torch of Defiance
 Chrome Host Seedshark x
 Consider x
@@ -32,6 +32,7 @@ Elvish Reclaimer x
 Embercleave x
 Embereth Shieldbreaker // Battle Display x
 Emry, Lurker of the Loch x
+Entomb x
 Ephemerate x
 Exhume x
 Expressive Iteration x
@@ -83,7 +84,8 @@ Mosswood Dreadknight // Dread Whispers x
 Mox Diamond (fake, men funker greit som proxy)
 Natural Order x
 Nettlecyst (?)
-Nissa, Who Shakes the World (?)
+Nissa, Who Shakes the World x
+Noble Hierarch x
 Oliphaunt x
 Ophiomancer x
 Palace Jailer x
@@ -107,6 +109,7 @@ Restless Prairie x
 Restless Spire x
 Restless Vinestalk x
 Restoration Angel (?)
+Retrofitter Foundry x
 Runaway Steam-Kin x
 Samwise the Stouthearted x
 Scrap Trawler x
@@ -115,8 +118,8 @@ Seething Song (?)
 Selfless Spirit (?)
 Serra Paragon x
 Sheoldred's Edict x
-Show and Tell (?)
-Skyclave Apparition (?)
+Show and Tell x
+Skyclave Apparition x
 Smuggler's Copter x
 Sneak Attack x
 Soul-Scar Mage (?)
@@ -129,6 +132,7 @@ Tamiyo, Collector of Tales (?)
 Tendrils of Agony x
 The Wandering Emperor x
 Thespian's Stage x
+Thieving Skydiver x
 Third Path Iconoclast x
 Thopter Foundry (?)
 Through the Breach x
@@ -146,6 +150,7 @@ Upheaval x
 Usher of the Fallen x
 Utopia Sprawl
 Venser, Shaper Savant x
+Virtue of Loyalty // Ardenvale Fealty x
 Voice of Resurgence (?)
 Voldaren Epicure x
 Walking Ballista x
