@@ -7,7 +7,7 @@ Vintage Cube kort jeg har:
 Adanto Vanguard x
 Ancient Tomb x
 Aragorn, King of Gondor x
-Basalt Monolith
+Basalt Monolith x
 Bitter Reunion x
 Bitter Triumph (?)
 Bolas's Citadel x
@@ -40,7 +40,7 @@ Faerie Mastermind x
 Feywild Caretaker x
 Fiery Islet x
 Fireblast (?)
-Flametongue Kavu (?)
+Flametongue Kavu x
 Flash (?)
 Fury x
 Get Lost x
@@ -108,7 +108,7 @@ Restless Cottage x
 Restless Prairie x
 Restless Spire x
 Restless Vinestalk x
-Restoration Angel (?)
+Restoration Angel x
 Retrofitter Foundry x
 Runaway Steam-Kin x
 Samwise the Stouthearted x
@@ -148,7 +148,7 @@ Unexpectedly Absent x
 Unmarked Grave (?)
 Upheaval x
 Usher of the Fallen x
-Utopia Sprawl
+Utopia Sprawl x
 Venser, Shaper Savant x
 Virtue of Loyalty // Ardenvale Fealty x
 Voice of Resurgence (?)
