@@ -17,9 +17,11 @@ Cabal Ritual x
 Celestial Colonnade x
 Chandra, Torch of Defiance
 Chrome Host Seedshark x
+Comet, Stellar Pup x
 Consider x
-Containment Priest
+Containment Priest x
 Council's Judgment x
+Crucible of Worlds x
 Damn x
 Dark Depths x
 Deep-Cavern Bat x
@@ -81,7 +83,7 @@ Monastery Mentor x
 Monastery Swiftspear x
 Monster Manual // Zoological Study x
 Mosswood Dreadknight // Dread Whispers x
-Mox Diamond (fake, men funker greit som proxy)
+Mox Diamond (fake, men funker greit som proxy) x
 Natural Order x
 Nettlecyst (?)
 Nissa, Who Shakes the World x
@@ -137,7 +139,7 @@ Third Path Iconoclast x
 Thopter Foundry (?)
 Through the Breach x
 Tishana's Tidebinder x
-Titania, Protector of Argoth (?)
+Titania, Protector of Argoth x
 Touch the Spirit Realm x
 Tourach, Dread Cantor (?)
 Troll of Khazad-dûm x
