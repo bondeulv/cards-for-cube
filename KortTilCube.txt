@@ -9,13 +9,12 @@ Ancient Tomb x
 Aragorn, King of Gondor x
 Basalt Monolith x
 Bitter Reunion x
-Bitter Triumph (?)
+Black Lotus (Duel Masters, så offfisielt WotC printet kort)
 Bolas's Citadel x
 Bomat Courier x
-Botanical Sanctum (?)
 Cabal Ritual x
 Celestial Colonnade x
-Chandra, Torch of Defiance
+Chandra, Torch of Defiance x
 Chrome Host Seedshark x
 Comet, Stellar Pup x
 Consider x
@@ -41,9 +40,7 @@ Expressive Iteration x
 Faerie Mastermind x
 Feywild Caretaker x
 Fiery Islet x
-Fireblast (?)
 Flametongue Kavu x
-Flash (?)
 Fury x
 Get Lost x
 Green Sun's Zenith x
@@ -51,33 +48,25 @@ Grim Lavamancer x
 Guardian of Ghirapur x
 Hangarback Walker x
 Haywire Mite x
-Hellrider (?)
-Hero of Bladehold (?)
-Hexdrinker (?)
 High Tide x
 Ichor Wellspring x
 Ignoble Hierarch x
 Incinerate x
 Inferno Titan x
-Inkwell Leviathan (?)
-Junk Diver (?)
 Kaito, Dancing Shadow x
-Karn, Scion of Urza (?)
 Kiki-Jiki, Mirror Breaker x
 Kitesail Freebooter x
 Knight of Autumn x
-Knight of the Reliquary (?)
 Krark-Clan Ironworks x
 Lion Sash x
 Lórien Revealed x
 Lotus Cobra x
 Lotus Petal x
-Luminarch Aspirant (?)
 Malcolm, Alluring Scoundrel x
 Manglehorn
 Mind's Desire
 Minsc & Boo, Timeless Heroes x
-Mishra's Bauble (?)
+Mishra's Bauble x
 Mizzix's Mastery x
 Monastery Mentor x
 Monastery Swiftspear x
@@ -85,20 +74,17 @@ Monster Manual // Zoological Study x
 Mosswood Dreadknight // Dread Whispers x
 Mox Diamond (fake, men funker greit som proxy) x
 Natural Order x
-Nettlecyst (?)
 Nissa, Who Shakes the World x
 Noble Hierarch x
 Oliphaunt x
 Ophiomancer x
 Palace Jailer x
-Paradox Engine (?)
+Paradox Engine x
 Parallax Wave x
 Pentad Prism x
-Pestermite
-Phyrexian Metamorph
 Phyrexian Revoker x
 Primeval Titan x
-Prismatic Ending (?)
+Prismatic Ending x
 Raging Ravine x
 Rampaging Raptor x
 Recurring Nightmare x
@@ -116,48 +102,36 @@ Runaway Steam-Kin x
 Samwise the Stouthearted x
 Scrap Trawler x
 Scrapwork Mutt x
-Seething Song (?)
-Selfless Spirit (?)
 Serra Paragon x
 Sheoldred's Edict x
 Show and Tell x
 Skyclave Apparition x
 Smuggler's Copter x
 Sneak Attack x
-Soul-Scar Mage (?)
-Spellseeker (?)
-Splinter Twin (?)
 Staff of the Storyteller x
 Stern Scolding x
-Sylvan Caryatid (?)
-Tamiyo, Collector of Tales (?)
+Tamiyo, Collector of Tales x
 Tendrils of Agony x
-The Wandering Emperor x
 Thespian's Stage x
 Thieving Skydiver x
 Third Path Iconoclast x
-Thopter Foundry (?)
 Through the Breach x
 Tishana's Tidebinder x
 Titania, Protector of Argoth x
 Touch the Spirit Realm x
-Tourach, Dread Cantor (?)
 Troll of Khazad-dûm x
 Ulvenwald Oddity // Ulvenwald Behemoth x
 Undermountain Adventurer x
 Underworld Breach x
 Unexpectedly Absent x
-Unmarked Grave (?)
 Upheaval x
 Usher of the Fallen x
 Utopia Sprawl x
 Venser, Shaper Savant x
 Virtue of Loyalty // Ardenvale Fealty x
-Voice of Resurgence (?)
 Voldaren Epicure x
 Walking Ballista x
 Welcoming Vampire x
-Woodfall Primus (?)
 Yorion, Sky Nomad x
 Young Pyromancer x
 Zirda, the Dawnwaker x
